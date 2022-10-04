@@ -25,3 +25,8 @@
   - [02. 백그라운드 실행](https://github.com/unie2/Linux-Study/blob/main/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/05.%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8B%A4%ED%96%89/02.%20%EB%B0%B1%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C%20%EC%8B%A4%ED%96%89.md)
   - [03. 항상 실행 - 데몬, service와 자동실행](https://github.com/unie2/Linux-Study/blob/main/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/05.%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8B%A4%ED%96%89/03.%20%ED%95%AD%EC%83%81%20%EC%8B%A4%ED%96%89%20-%20%EB%8D%B0%EB%AA%AC%2C%20service%EC%99%80%20%EC%9E%90%EB%8F%99%EC%8B%A4%ED%96%89.md)
   - [04. 정기적 실행 (cron) & 쉘을 시작할 때 실행](https://github.com/unie2/Linux-Study/blob/main/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/05.%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8B%A4%ED%96%89/04.%20%EC%A0%95%EA%B8%B0%EC%A0%81%20%EC%8B%A4%ED%96%89%20(cron)%20%26%20%EC%89%98%EC%9D%84%20%EC%8B%9C%EC%9E%91%ED%95%A0%20%EB%95%8C%20%EC%8B%A4%ED%96%89.md)
+
+- [06. 사용자](https://github.com/unie2/Linux-Study/tree/main/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/06.%20%EC%82%AC%EC%9A%A9%EC%9E%90)
+  - [01. 다중사용자](https://github.com/unie2/Linux-Study/blob/main/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/06.%20%EC%82%AC%EC%9A%A9%EC%9E%90/01.%20%EB%8B%A4%EC%A4%91%EC%82%AC%EC%9A%A9%EC%9E%90.md)
+  - [02. 관리자와 일반 사용자](https://github.com/unie2/Linux-Study/blob/main/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/06.%20%EC%82%AC%EC%9A%A9%EC%9E%90/02.%20%EA%B4%80%EB%A6%AC%EC%9E%90%EC%99%80%20%EC%9D%BC%EB%B0%98%20%EC%82%AC%EC%9A%A9%EC%9E%90.md)
+  - [03. 사용자의 추가](https://github.com/unie2/Linux-Study/blob/main/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/06.%20%EC%82%AC%EC%9A%A9%EC%9E%90/03.%20%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98%20%EC%B6%94%EA%B0%80.md)
