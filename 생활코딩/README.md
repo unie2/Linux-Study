@@ -30,3 +30,6 @@
   - [01. 다중사용자](https://github.com/unie2/Linux-Study/blob/main/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/06.%20%EC%82%AC%EC%9A%A9%EC%9E%90/01.%20%EB%8B%A4%EC%A4%91%EC%82%AC%EC%9A%A9%EC%9E%90.md)
   - [02. 관리자와 일반 사용자](https://github.com/unie2/Linux-Study/blob/main/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/06.%20%EC%82%AC%EC%9A%A9%EC%9E%90/02.%20%EA%B4%80%EB%A6%AC%EC%9E%90%EC%99%80%20%EC%9D%BC%EB%B0%98%20%EC%82%AC%EC%9A%A9%EC%9E%90.md)
   - [03. 사용자의 추가](https://github.com/unie2/Linux-Study/blob/main/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/06.%20%EC%82%AC%EC%9A%A9%EC%9E%90/03.%20%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98%20%EC%B6%94%EA%B0%80.md)
+
+- [07. 권한 (permission)](https://github.com/unie2/Linux-Study/tree/main/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/07.%20%EA%B6%8C%ED%95%9C%20(permission))
+  - [01. 권한 기본](https://github.com/unie2/Linux-Study/blob/main/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/07.%20%EA%B6%8C%ED%95%9C%20(permission)/01.%20%EA%B6%8C%ED%95%9C%20%EA%B8%B0%EB%B3%B8.md)
