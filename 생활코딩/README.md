@@ -33,3 +33,7 @@
 
 - [07. 권한 (permission)](https://github.com/unie2/Linux-Study/tree/main/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/07.%20%EA%B6%8C%ED%95%9C%20(permission))
   - [01. 권한 기본](https://github.com/unie2/Linux-Study/blob/main/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/07.%20%EA%B6%8C%ED%95%9C%20(permission)/01.%20%EA%B6%8C%ED%95%9C%20%EA%B8%B0%EB%B3%B8.md)
+  - [02. 권한을 변경하는 방법 - chmod](https://github.com/unie2/Linux-Study/blob/main/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/07.%20%EA%B6%8C%ED%95%9C%20(permission)/02.%20%EA%B6%8C%ED%95%9C%EC%9D%84%20%EB%B3%80%EA%B2%BD%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95%20-%20chmod.md)
+  - [03. 실행의 개념과 권한 설정 - execute](https://github.com/unie2/Linux-Study/blob/main/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/07.%20%EA%B6%8C%ED%95%9C%20(permission)/03.%20%EC%8B%A4%ED%96%89%EC%9D%98%20%EA%B0%9C%EB%85%90%EA%B3%BC%20%EA%B6%8C%ED%95%9C%20%EC%84%A4%EC%A0%95%20-%20execute.md)
+  - [04. directory의 권한](https://github.com/unie2/Linux-Study/blob/main/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/07.%20%EA%B6%8C%ED%95%9C%20(permission)/04.%20directory%EC%9D%98%20%EA%B6%8C%ED%95%9C.md)
+  - [05. chmod 사용법 정리 - class & operation](https://github.com/unie2/Linux-Study/blob/main/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/07.%20%EA%B6%8C%ED%95%9C%20(permission)/05.%20chmod%20%EC%82%AC%EC%9A%A9%EB%B2%95%20%EC%A0%95%EB%A6%AC%20-%20class%20%26%20operation.md)
